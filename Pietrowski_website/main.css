@@ -1,0 +1,138 @@
+#background{
+    background-image: url(smaller.jpg);
+    
+}
+
+#bigger{
+    
+    left: 0;
+    position: absolute;
+    min-width: 100%;
+    min-height: 100%
+    
+    
+}
+.capsule {
+    align-content: center;
+    background-color: white;
+    margin-right:15%;
+    margin-left: 15%;
+}
+
+h2 { 
+   position: absolute; 
+   top: 200px; 
+   left: 0; 
+   width: 100%; 
+}
+h2 span { 
+   color: white; 
+   font: bold 24px/45px Helvetica, Sans-Serif; 
+   letter-spacing: -1px;  
+   background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.7);
+   padding: 10px; 
+    margin-left: 3%;
+}
+
+
+.welcome {
+    align-content: center;
+    height: 100px;
+}
+
+/*.dropbtn {
+    background-color:white;
+    color: black;
+    padding: ;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+.dropbtn:hover, .dropbtn:focus {
+    background-color: #339999;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    
+    
+    
+}
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.show {display:block;}*/
+#main_row {
+display: block;
+height: 50px;
+background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.7);
+}
+
+h1 {color: white;
+  
+    font-size: 40px;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 25%;
+    }
+
+ul.button-group{
+    
+    float: left;
+    margin-top: 3px;
+    margin-left: 15%; 
+}
+
+.button-group li {
+    overflow: hidden;  
+    text-align: center;
+    
+}
+.button {
+    background-color: #e5d0b9;
+    color: rgb(0, 0, 0);;
+    border-top-right-radius: 30px;
+    width: auto;
+    height: 20px;
+    font-size: 12px;
+    margin-top: 22px;
+    
+}
+
+.button:hover {
+    color: white;
+    background-color: rgb(0, 0, 0);;
+    border-top-right-radius: 30px;
+}
+
+
+
+#Aboutme {
+    float: left;
+}
+    
+#current {
+    float: left;
+    margin-left: 2%;
+}     
+#aquahr {
+    
+    background-color: #e5d0b9;
+    height: 0.5em;
+
+
+}
+
+ul.myvids {
+    list-style: none;
+}
+
+#courses ul ul {
+    list-style: none;
+    display: block;
+     
+}
+
+
